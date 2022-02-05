@@ -1,5 +1,4 @@
 
-var msg = 'Hello World, Ajay';
+var msg = 'Hello JS World';
 console.log(msg);
-
 
